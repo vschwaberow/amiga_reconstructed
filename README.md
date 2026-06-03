@@ -40,6 +40,7 @@ Where possible, each reconstruction should explain:
 |   Dune 2 Trainermenu    |   Colorboy   |   Mystic   | Trainermenu for the game Dune 2                          |
 | Miami Chase Trainermenu | Phil Douglas |            | Trainermenu for the game Miami Chase incl. trainer patch |
 |    Sidewinder Intro     |  Dr. Pablo   | The Champs | Cracktro for the game Sidewinder                         |
+| Rick Dangerous Trainer  |   Weetibix   |   Oracle   | Trainermenu for the game Rick Dangerous                  |
 
 ### Tools
 
