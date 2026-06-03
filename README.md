@@ -29,6 +29,24 @@ Where possible, each reconstruction should explain:
 - Whether the result has been assembled or compiled successfully.
 - Whether the generated output has been compared with the original.
 
+## Current Content
+
+### Amiga Intros and Trainermenus
+
+|          Name           |    Author    |   Group    | Comments                                                 |
+| :---------------------: | :----------: | :--------: | :------------------------------------------------------- |
+|    Liberation Intro     |   Madison    |  Delirium  | Cracktro for the game Liberation                         |
+|  King of Chicago Intro  |     Gary     |    HQC     | Cracktro for the game King of Chicago                    |
+|   Dune 2 Trainermenu    |   Colorboy   |   Mystic   | Trainermenu for the game Dune 2                          |
+| Miami Chase Trainermenu | Phil Douglas |            | Trainermenu for the game Miami Chase incl. trainer patch |
+|    Sidewinder Intro     |  Dr. Pablo   | The Champs | Cracktro for the game Sidewinder                         |
+
+### Tools
+
+|       Name        | Author |      Group      | Comments                         |
+| :---------------: | :----: | :-------------: | :------------------------------- |
+| RSI Cruncher v1.4 | Flash  | Red Sector Inc. | Full source code of the cruncher |
+
 ## Repository Status
 
 This repository is currently a container for reconstructed Amiga source material.
