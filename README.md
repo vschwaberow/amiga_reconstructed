@@ -33,14 +33,15 @@ Where possible, each reconstruction should explain:
 
 ### Amiga Intros and Trainermenus
 
-|          Name           |    Author    |   Group    | Comments                                                 |
-| :---------------------: | :----------: | :--------: | :------------------------------------------------------- |
-|    Liberation Intro     |   Madison    |  Delirium  | Cracktro for the game Liberation                         |
-|  King of Chicago Intro  |     Gary     |    HQC     | Cracktro for the game King of Chicago                    |
-|   Dune 2 Trainermenu    |   Colorboy   |   Mystic   | Trainermenu for the game Dune 2                          |
-| Miami Chase Trainermenu | Phil Douglas |            | Trainermenu for the game Miami Chase incl. trainer patch |
-|    Sidewinder Intro     |  Dr. Pablo   | The Champs | Cracktro for the game Sidewinder                         |
-| Rick Dangerous Trainer  |   Weetibix   |   Oracle   | Trainermenu for the game Rick Dangerous                  |
+|          Name           |    Author     |   Group    | Comments                                                 |
+| :---------------------: | :-----------: | :--------: | :------------------------------------------------------- |
+|    Liberation Intro     |    Madison    |  Delirium  | Cracktro for the game Liberation                         |
+|  King of Chicago Intro  |     Gary      |    HQC     | Cracktro for the game King of Chicago                    |
+|   Dune 2 Trainermenu    |   Colorboy    |   Mystic   | Trainermenu for the game Dune 2                          |
+| Miami Chase Trainermenu | Phil Douglas  |            | Trainermenu for the game Miami Chase incl. trainer patch |
+|    Sidewinder Intro     |   Dr. Pablo   | The Champs | Cracktro for the game Sidewinder                         |
+| Rick Dangerous Trainer  |   Weetibix    |   Oracle   | Trainermenu for the game Rick Dangerous                  |
+|  Beneath the Steel Sky  | Wayne Mendoza |  Delirium  | Cracktro for Beneath the Steel Sky by Masque             |
 
 ### Tools
 
