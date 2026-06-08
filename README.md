@@ -42,6 +42,7 @@ Where possible, each reconstruction should explain:
 |    Sidewinder Intro     |   Dr. Pablo   | The Champs | Cracktro for the game Sidewinder                         |
 | Rick Dangerous Trainer  |   Weetibix    |   Oracle   | Trainermenu for the game Rick Dangerous                  |
 |  Beneath the Steel Sky  | Wayne Mendoza |  Delirium  | Cracktro for Beneath the Steel Sky by Masque             |
+|   Robocod Trainermenu   | Surprise!Prod |    TRSI    | Trainermenu for Robocod                                  |
 
 ### Tools
 
