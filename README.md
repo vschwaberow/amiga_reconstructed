@@ -49,6 +49,7 @@ Where possible, each reconstruction should explain:
 | :---------------: | :--------: | :-------------: | :------------------------------- |
 | RSI Cruncher v1.4 |   Flash    | Red Sector Inc. | Full source code of the cruncher |
 |  Tetrapack v2.2   | Antiaction |     Defjam      | Full source code of the cruncher |
+|   Double Action   |   Vince    |     Tristar     | Full source code of the cruncher |
 
 ## Repository Status
 
