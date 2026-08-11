@@ -43,6 +43,7 @@ Where possible, each reconstruction should explain:
 | Rick Dangerous Trainer  |   Weetibix    |   Oracle   | Trainermenu for the game Rick Dangerous                  |
 |  Beneath the Steel Sky  | Wayne Mendoza |  Delirium  | Cracktro for Beneath the Steel Sky by Masque             |
 |   Robocod Trainermenu   | Surprise!Prod |    TRSI    | Trainermenu for Robocod                                  |
+|   Turrican Trainermenu  | TRANSFORMER   |    TRSI    | 100% Trainer Intro for Turrican 1                        |
 
 ### Tools
 
