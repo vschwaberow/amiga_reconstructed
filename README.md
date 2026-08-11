@@ -44,6 +44,7 @@ Where possible, each reconstruction should explain:
 |  Beneath the Steel Sky  | Wayne Mendoza |  Delirium  | Cracktro for Beneath the Steel Sky by Masque             |
 |   Robocod Trainermenu   | Surprise!Prod |    TRSI    | Trainermenu for Robocod                                  |
 |   Turrican Trainermenu  | TRANSFORMER   |    TRSI    | 100% Trainer Intro for Turrican 1                        |
+|  Emetic Skimmer Intro   |               | The Movers | Cracktro for the game Emetic Skimmer                     |
 
 ### Tools
 
